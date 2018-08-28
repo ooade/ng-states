@@ -1,9 +1,4 @@
-import fs from 'fs';
-import path from 'path';
-
-const states = JSON.parse(
-	fs.readFileSync(path.join(__dirname, '../seed.json'))
-);
+const states = require('../seed.json');
 
 const toOneDecimal = num => {
 	return Number(

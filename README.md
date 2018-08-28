@@ -4,7 +4,7 @@
   <img src="icon.svg" alt="icon" width="150px" />
 </p>
 
-~500 Bytes Nigeria States with its respective Local Government Areas 
+~400 Bytes Nigeria State list with its respective Local Government Areas
 
 Thanks to [Opeyemi Obembe](https://github.com/kehers) who initially created the csv file.
 

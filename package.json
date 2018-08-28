@@ -1,7 +1,7 @@
 {
 	"name": "ng-states",
-	"version": "0.1.0",
-	"description": "Nigeria States with its respective Local Government Areas",
+	"version": "0.1.1",
+	"description": "~400 Bytes Nigeria State list with its respective Local Government Areas",
 	"main": "dist/ng-states.js",
 	"module": "dist/ng-states.es.js",
 	"umd": "dist/ng-states.umd.js",
@@ -18,8 +18,8 @@
 		"type": "git",
 		"url": "git+https://github.com/ooade/ng-states.git"
 	},
-	"author": "",
-	"license": "ISC",
+	"author": "Ademola Adegbuyi<ooade96@gmail.com>",
+	"license": "MIT",
 	"bugs": {
 		"url": "https://github.com/ooade/ng-states/issues"
 	},
